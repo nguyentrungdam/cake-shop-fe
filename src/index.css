@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Quicksand", "Poppins",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  letter-spacing: 0.025em;
+  line-height: 1.6;
+  font-size: 17px;
+  font-weight: 400;
+  text-rendering: optimizeSpeed;
+}
+
+*,
+:after,
+:before,
+input {
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
